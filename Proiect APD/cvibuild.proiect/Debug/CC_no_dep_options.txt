@@ -1,0 +1,1 @@
+-force-include-file "interfata.c";"c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c" -force-include-file "interfata.h";"c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.h" 

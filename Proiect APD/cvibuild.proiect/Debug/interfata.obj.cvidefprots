@@ -1,0 +1,130 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:65:5"
+
+[AfisarePeSecunde]
+Class="Function"
+Prototype="void AfisarePeSecunde(double *waveDatap, double *waveData);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:96:6"
+
+[OnLoad]
+Class="Function"
+Prototype="int OnLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:105:17"
+
+[OnWavePanel]
+Class="Function"
+Prototype="int OnWavePanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:182:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:200:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:253:17"
+
+[FiltrareOrdinI]
+Class="Function"
+Prototype="void FiltrareOrdinI(double alpha);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:306:6"
+
+[Mediere]
+Class="Function"
+Prototype="void Mediere(int dim);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:315:6"
+
+[OnAplica]
+Class="Function"
+Prototype="int OnAplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:336:17"
+
+[OnFilterType]
+Class="Function"
+Prototype="int OnFilterType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:391:17"
+
+[OnSave]
+Class="Function"
+Prototype="int OnSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:417:17"
+
+[OnDeriv]
+Class="Function"
+Prototype="int OnDeriv(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:438:17"
+
+[OnAnvelopa]
+Class="Function"
+Prototype="int OnAnvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:464:17"
+
+[OnFrequencyPanel]
+Class="Function"
+Prototype="int OnFrequencyPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:495:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:514:17"
+
+[OnWindowType]
+Class="Function"
+Prototype="int OnWindowType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:543:17"
+
+[OnSecundaFreq]
+Class="Function"
+Prototype="int OnSecundaFreq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:557:17"
+
+[aplicareFiltru]
+Class="Function"
+Prototype="void aplicareFiltru(int panel);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:569:6"
+
+[aplicareFereastra]
+Class="Function"
+Prototype="void aplicareFereastra(int panel);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:685:6"
+
+[afisareSpectru]
+Class="Function"
+Prototype="void afisareSpectru(int panel);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:783:6"
+
+[afispesecunde]
+Class="Function"
+Prototype="void afispesecunde(int panel);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:861:6"
+
+[afisSemnalIntreg]
+Class="Function"
+Prototype="void afisSemnalIntreg(int panel);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:896:6"
+
+[OnTimer]
+Class="Function"
+Prototype="int OnTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:930:17"
+
+[OnFilterTypeFreq]
+Class="Function"
+Prototype="int OnFilterTypeFreq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:1008:17"
+
+[OnShow]
+Class="Function"
+Prototype="int OnShow(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:1020:17"
+
+[OnSave2]
+Class="Function"
+Prototype="int OnSave2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\.Partitie_cu_informatii\An3\Proiect APD\interfata.c:1056:17"
+
